@@ -12,10 +12,11 @@ abstract: >-
   coordinates are not redistributed; they must be obtained from the cited
   spatial dataset and re-run through the included scripts.
 type: software
-version: 1.0.0
+version: 1.0.1
 date-released: 2026-11-01
 license: MIT
-repository-code: "[VERIFIED GITHUB URL]"
+repository-code: "https://github.com/HaochenJiang1222/tcv-county-seat-proximity"
+url: "https://doi.org/10.5281/zenodo.23856686"
 authors:
   - family-names: Yu
     given-names: Yue

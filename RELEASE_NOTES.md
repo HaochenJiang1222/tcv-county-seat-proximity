@@ -39,3 +39,14 @@ so the coordinates are withheld. Obtaining that dataset and running
 * County administrative reference points in `data/county_center_points_public.csv` mirror a public
   administrative-boundary service; readers who prefer not to rely on the redistributed copy can
   regenerate them with `scripts/123_county_center_national.py`.
+
+## v1.0.1
+
+* Updated the two manuscript figures (`output/figures/fig1_flow.png`,
+  `output/figures/fig2_county_diff.png`) to the layout used in the submitted
+  manuscript: text overflow fixed, in-figure captions removed per MDPI style
+  (captions are typeset in the manuscript), and the boundary note aligned with
+  the manuscript wording. No data, estimate, seed or script changed;
+  recomputing the figures reproduces the same 42 negative / 11 tied /
+  42 positive counties and mean -0.039.
+* `CITATION.cff` version bumped to 1.0.1.
