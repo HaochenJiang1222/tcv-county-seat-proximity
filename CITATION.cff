@@ -13,7 +13,7 @@ abstract: >-
   spatial dataset and re-run through the included scripts.
 type: software
 version: 1.0.1
-date-released: 2026-11-01
+date-released: 2026-11-02
 license: MIT
 repository-code: "https://github.com/HaochenJiang1222/tcv-county-seat-proximity"
 url: "https://doi.org/10.5281/zenodo.23856686"
