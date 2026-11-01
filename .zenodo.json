@@ -1,0 +1,35 @@
+{
+  "title": "Replication package for \"Recognition as Eligibility: County-Seat Proximity and Access to Conservation Support Arrangements in China's Traditional Villages\"",
+  "description": "Replication package for a study of the 2016 fourth cohort of China's Traditional Villages. The fourth-cohort villages share a common national designation status and therefore a common formal eligibility for centrally financed conservation support; the study asks whether the timing of entry into the first announced support schedule is associated with a village's distance from its county government seat. The package contains all data-construction, matching, adjudication, variable, estimation, diagnostic, verification and typesetting scripts, the coordinate-free derived datasets needed to reproduce every reported number, the frozen result logs, the adjudication and provenance registers, and the two manuscript figures. Village coordinates are not redistributed: they originate from the Spatial Distribution Dataset of 1,598 Newly Added Traditional Villages in China (DOI 10.3974/geodb.2019.01.19.V1) under terms that restrict redistribution. Obtaining that dataset and running the included scripts regenerates every geographical variable.",
+  "license": "other-open",
+  "access_right": "open",
+  "upload_type": "software",
+  "keywords": [
+    "traditional villages",
+    "China",
+    "place-based policy",
+    "county-seat proximity",
+    "conditional logit",
+    "eligibility",
+    "replication package"
+  ],
+  "creators": [
+    {
+      "name": "Yu, Yue",
+      "affiliation": "Jiangsu Open University"
+    },
+    {
+      "name": "Jiang, Haochen",
+      "affiliation": "Jiangsu Open University"
+    }
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.3974/geodb.2019.01.19.V1",
+      "relation": "references",
+      "scheme": "doi",
+      "resource_type": "dataset"
+    }
+  ],
+  "notes": "Licences: scripts under MIT; derived datasets in data/ and logs and figures in output/ under CC BY 4.0. Village coordinates are NOT included and are governed by the terms of their original publisher (DOI 10.3974/geodb.2019.01.19.V1). Reserved or draft DOIs must not be cited as published records."
+}

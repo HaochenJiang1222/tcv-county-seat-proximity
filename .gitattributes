@@ -1,0 +1,4 @@
+# MANIFEST.csv 记录每个文件的逐字节 SHA256。git 若在任何环节改写换行符
+# （提交时 CRLF->LF、检出时 LF->CRLF），下载者核对校验和就会全部失败。
+# 这里显式关闭全部 EOL 处理；本机另需 git config core.autocrlf false。
+* -text

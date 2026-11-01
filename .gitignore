@@ -1,0 +1,6 @@
+# Original village coordinates cannot be redistributed; keep local only
+data/geo/geodoi/
+# Local run artefacts
+__pycache__/
+*.pyc
+.DS_Store

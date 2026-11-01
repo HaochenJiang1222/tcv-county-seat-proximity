@@ -1,0 +1,10 @@
+MIT License
+
+Copyright (c) 2026 Yue Yu, Haochen Jiang
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of the scripts in
+this package to deal in them without restriction, including the rights to use, copy, modify and
+distribute, subject to the inclusion of the above copyright notice.
+
+The derived datasets in data/ and the logs and figures in output/ are licensed separately under
+CC BY 4.0. Village coordinates are not included in this package; see README.md.

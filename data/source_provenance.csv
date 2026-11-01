@@ -1,0 +1,13 @@
+﻿item,file,bytes,sha256_first16,mtime,source,note
+第四批认定名录 1598 村（原始 wikitext 备份）,data/master/raw/wikisource_2016.wiki,76861,079dcd1add75a27b,2026-10-30,wikisource 转录：住房城乡建设部等《关于公布第四批列入中国传统村落名录的村落名单的通知》建村〔2016〕278号,wikisource 转录：住房城乡建设部等《关于公布第四批列入中国传统村落名录的村落名单的通知》建村〔2016〕278号
+第四批认定名录 1598 村（本地官方 .doc 解析）,data/tcv_funding/official/batch4.doc,236544,15f5852dc7b7efd8,2026-10-30,官方 .doc 副本，与 wikisource 转录交叉核对,官方 .doc 副本，与 wikisource 转录交叉核对
+2017 支持名单 600 村（原始网页）,data/master/raw/s2017.html,77640,fd2305f402e43502,2026-10-30,浙江南方建筑设计有限公司；2017.06.09；中国建设报）,基于 zsad.com.cn 转载的 2017 年支持名单
+2018 拟支持名单 444 村（原始网页）,data/master/raw/p2018.html,161732,ef8160c88d0e556c,2026-10-30,2018（拟）中央财政支持中国传统村落名单；中国民族文化资源库,基于 asqxzs.com 转载的 2018 年拟支持名单
+历史名单 2014-1（原始 .doc）,data/tcv_funding/official_pre/f2014_1.doc,45056,0cf8686208af1a0e,2026-10-30,财政部/住建部 2014 年第一批名单的 .doc 附件副本,财政部/住建部 2014 年第一批名单的 .doc 附件副本
+历史名单 2014-2（已解析文件）,data/tcv_funding/official_pre/raw/f2014_2.html,165569,3fd8808c76c3c1aa,2026-10-30,传统村落网-最新资讯；住建部网站,传统村落网转载自住建部网站
+历史名单 2015-1 与 2015 附件2（已解析文件）,data/tcv_funding/official_pre/raw/f2015_1.html,62110,1ece24a27c1cbdf3,2026-10-30,住房城乡建设部等部门关于公布2015年列入中央财政支持范围的中国传统村落名单的通知 - 大地风景文旅集团_乡村振兴_品质景区_度假生活,建村部门 2015 年名单通知全文（通知 + 附件1 名单）
+历史名单 2015-2（已解析文件）,data/tcv_funding/official_pre/raw/f2015_2.html,62871,e9ca5346d2296a06,2026-10-30,中国传统村落数字博物馆,中国传统村落数字博物馆站点
+历史名单 2016-1（已解析文件）,data/tcv_funding/official_pre/raw/f2016_1.html,69159,93fa924b7f3b702b,2026-10-30,昌宁：10个传统村落列入2016年中央财政支持名单-昌宁县人民政府门户网；：,地方门户网站全文转载，含完整名单
+历史名单 2016-2（已解析文件）,data/tcv_funding/official_pre/raw/f2016_2.html,53437,db972fc4928c9f54,2026-10-30,住建部发219个中央财政支持传统村落名单，云南入选62个_地产界_澎湃新闻-The Paper；https://www.thepaper.cn/newsDetail_forward_1594931,全文转录名单
+复核用：2014-2 住建部官网页面（未用于解析）,data/tcv_funding/official_pre/p2014_2.html,12195,0f49e95a1e1c4d7b,2026-10-30,住房城乡建设部等部门关于公布2014年第二批列入中央财政支持范围的中国传统村落名单的通知；2014-12-23 16:14:05,mohurd.gov.cn 原文
+2014-2 官方页面复核,data/tcv_funding/official_pre/p2014_2.html,12195,0f49e95a1e1c4d7b,2026-10-30,抽取 3 条，与已解析名单一致 0 条,复核用

@@ -1,0 +1,41 @@
+155 章节归位与参考文献归拢 复核报告
+========================================================================
+
+一、归位后的二级章节顺序
+   ## Abstract
+   ## 1. Introduction
+   ## 2. Institutional Background and Analytical Expectations
+   ## 3. Materials and Methods
+   ## 4. Results
+   ## 5. Discussion
+   ## 6. Conclusions
+   ## Tables
+   ## Figures
+   ## Author Contributions
+   ## Funding
+   ## Data Availability Statement
+   ## Acknowledgments
+   ## Conflicts of Interest
+   ## Declaration of Generative AI and AI-Assisted Technologies in the Writing Process
+   ## Appendix A. Data Construction, Matching Audit, and Reproducibility
+   ## References
+
+二、参考文献
+   条目数 18，编号 连续
+   末尾检查：参考文献块之后是否还有正文 → 无
+
+三、与归位前原稿的差异（按行多重集）
+   原稿非空行 339；现稿非空行 339；差异 无
+
+四、章节位置结论
+   Author Contributions                           在 References 之前
+   Funding                                        在 References 之前
+   Data Availability Statement                    在 References 之前
+   Acknowledgments                                在 References 之前
+   Conflicts of Interest                          在 References 之前
+   Declaration of Generative AI                   在 References 之前
+   Appendix A                                     在 References 之前
+
+五、MDPI Land 模板对照（data/mdpi_template/land_template.docx 样式序列）
+   5. Conclusions → 后辅文 → Appendix A → References
+   现稿顺序与之相符

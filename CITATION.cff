@@ -1,0 +1,47 @@
+cff-version: 1.2.0
+message: >-
+  If you use this package, please cite the associated manuscript; while it is
+  under review, cite this archive.
+title: >-
+  Replication package for "Recognition as Eligibility: County-Seat Proximity
+  and Access to Conservation Support Arrangements in China's Traditional
+  Villages"
+abstract: >-
+  Scripts, coordinate-free derived data, adjudication records and frozen result
+  logs reproducing every number reported in the associated manuscript. Village
+  coordinates are not redistributed; they must be obtained from the cited
+  spatial dataset and re-run through the included scripts.
+type: software
+version: 1.0.0
+date-released: 2026-11-01
+license: MIT
+repository-code: "[VERIFIED GITHUB URL]"
+authors:
+  - family-names: Yu
+    given-names: Yue
+    affiliation: Jiangsu Open University
+  - family-names: Jiang
+    given-names: Haochen
+    affiliation: Jiangsu Open University
+keywords:
+  - traditional villages
+  - China
+  - place-based policy
+  - county-seat proximity
+  - conditional logit
+  - replication package
+preferred-citation:
+  type: article
+  title: >-
+    Recognition as Eligibility: County-Seat Proximity and Access to Conservation
+    Support Arrangements in China's Traditional Villages
+  journal: Land
+  year: 2026
+  status: in-preparation
+  authors:
+    - family-names: Yu
+      given-names: Yue
+      affiliation: Jiangsu Open University
+    - family-names: Jiang
+      given-names: Haochen
+      affiliation: Jiangsu Open University
